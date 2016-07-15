@@ -48,10 +48,6 @@ PRODUCT_PACKAGES += \
     geomagneticd
 #    camera.MSM8960 \
 
-# General insanity
-PRODUCT_PACKAGES += \
-    bootani.zip
-
 # Wifi firmware
 PRODUCT_PACKAGES += \
     WCNSS_cfg.dat \
